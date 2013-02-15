@@ -1,0 +1,6 @@
+C:\Users\dennis\Documents\Prive\ReacTable\TUIO_CSHARP-1.4\bin\Debug\TuioDemo.exe.config
+C:\Users\dennis\Documents\Prive\ReacTable\TUIO_CSHARP-1.4\bin\Debug\TuioDemo.exe
+C:\Users\dennis\Documents\Prive\ReacTable\TUIO_CSHARP-1.4\bin\Debug\TuioDemo.pdb
+C:\Users\dennis\Documents\Prive\ReacTable\TUIO_CSHARP-1.4\obj\Debug\TUIO_DEMO.csprojResolveAssemblyReference.cache
+C:\Users\dennis\Documents\Prive\ReacTable\TUIO_CSHARP-1.4\obj\Debug\TuioDemo.exe
+C:\Users\dennis\Documents\Prive\ReacTable\TUIO_CSHARP-1.4\obj\Debug\TuioDemo.pdb
