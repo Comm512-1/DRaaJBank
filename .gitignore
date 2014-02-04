@@ -1,1 +1,10 @@
 *.cache
+*.obj
+*.tlog
+Archive/reacTIVision-1.4-src/win32/Debug/*
+DRaaJBank/obj/Debug/T*
+DRaaJBank/obj/Debug/*
+DRaaJBank/obj/Debug/*
+DRaaJBank/obj/Debug/*
+DRaaJBank/obj/*
+DRaaJBank/obj/*
